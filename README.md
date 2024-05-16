@@ -25,3 +25,14 @@ Registers hold data that is used by instructions. They also store the results of
 Installation: Clone the repository and ensure you have Node.js installed on your system.
 
 Use the `TEST FILE` included to run the app using `main.js`
+
+## Developed by a lovely team of five 💖💖💖💖💖
+Tarteel Elattar
+
+Dina Ayman
+
+Nora Osama
+
+Bassant Tarek
+
+Salma Khaled
