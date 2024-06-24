@@ -27,7 +27,7 @@ Installation: Clone the repository and ensure you have Node.js installed on your
 Use the `TEST FILE` included to run the app using `main.js`
 
 ## Developed by a lovely team of five 💖💖💖💖💖
-Tarteel Elattar
+Tarteel Elattar (Me)
 
 [Dina Ayman](https://github.com/DinaAymann)
 
