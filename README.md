@@ -29,10 +29,10 @@ Use the `TEST FILE` included to run the app using `main.js`
 ## Developed by a lovely team of five 💖💖💖💖💖
 Tarteel Elattar
 
-Dina Ayman
+[Dina Ayman](https://github.com/DinaAymann)
 
-Nora Osama
+[Nora Osama](https://github.com/NoraOsama)
 
-Bassant Tarek
+[Bassant Tarek](https://github.com/bassantTarekk)
 
-Salma Khaled
+[Salma Khaled](https://github.com/salmakhaled11234)
